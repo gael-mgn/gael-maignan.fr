@@ -32,6 +32,11 @@ ul {
   text-decoration: underline;
   color: #8A6E30;
 }
+
+.italic {
+  font-style: italic;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
